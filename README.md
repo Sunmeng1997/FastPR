@@ -1,2 +1,2 @@
 # FastPR
-The code is being sorted out and will be released before February 2023
+The code is being sorted out and will be released as soon as possible
